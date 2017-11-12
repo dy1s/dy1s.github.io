@@ -1,19 +1,19 @@
 # Site navigation links
 
 - title: projects
-  url: 
-  excerpt:
+  url: http://google.com  
+  excerpt:test
   image: code1.jpg
 
 
   - title: about
-  url: 
-  excerpt:
+  url: http://google.com  
+  excerpt:test1
   image: code1.jpg
 
 - title: contact 
-  url: 
-  excerpt:
+  url: http://google.com  
+  excerpt:test2
   image: code1.jpg
 
 
