@@ -1,6 +1,20 @@
 # Site navigation links
 
-- title:
-  url:
+- title: projects
+  url: 
   excerpt:
-  image:
+  image: code1.jpg
+
+
+  - title: about
+  url: 
+  excerpt:
+  image: code1.jpg
+
+- title: contact 
+  url: 
+  excerpt:
+  image: code1.jpg
+
+
+
